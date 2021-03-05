@@ -1,0 +1,7 @@
+echo "# esercizio" >> README.md 
+git init 
+git add README.md 
+git commit -m "primo commit" 
+git branch -M main 
+git remote add origin https://github.com/EmanueleFior98/esercizio.git
+ git push - u origine principale
